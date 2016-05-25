@@ -89,7 +89,7 @@ nameserver 8.8.8.8
 nameserver 8.8.4.4
 EOF
 
-tarFile="$dir/archlinux-${ALT_DATE}.tar${compression:+.$compression}"
+tarFile="$dir/archstrike-${ALT_DATE}.tar${compression:+.$compression}"
 touch "$tarFile"
 
 (

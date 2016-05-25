@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Generate a minimal filesystem for archlinux and load it into the local
+# Generate a minimal filesystem for archstrike and load it into the local
 # docker as "archstrike"
 # requires root
 set -e
